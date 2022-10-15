@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bara'ah Abdullah.</h1>
 <h3 align="center">I'm a software Developer, Interested in emerging technologies. Blockchain | AI | Bioinformatics.</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **baraah.abdullah.almowald@gmail.com**
 
