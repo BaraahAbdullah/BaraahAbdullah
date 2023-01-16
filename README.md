@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Bara'ah Abdullah</h1>
-<h3 align="center">A Fullstack JavaScript Developer | Interested in emerging technologies. Blockchain | AI | Bioinformatics.</h3>
+<h1 align="center">Hi 👋, I'm Bara'ah </h1>
 
 ![Welcome page pic](https://github.com/BaraahAbdullah/BaraahAbdullah/blob/main/pic%231.png)
 
-- 🌱 I’m currently learning **baraah.abdullah.almowald@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/bara-ah-abdullah-134875184](www.linkedin.com/in/bara-ah-abdullah-134875184)
+<h3 align="center">A Fullstack JavaScript Developer </h3> I'm Interested in emerging technologies ( Blockchain | AI | Bioinformatics ). i'm passionate about Learn more about Tec. , creating technology to elevate people, and building community. 
+
+
+
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 📫 How to reach me **baraah.abdullah.almowald@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/bara-ah-abdullah-134875184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bara-ah-abdullah-134875184" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
