@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bara'ah Abdullah</h1>
 <h3 align="center">A Fullstack JavaScript Developer | Interested in emerging technologies. Blockchain | AI | Bioinformatics.</h3>
 
-![Welcome page pic](pic#1.png)
+![Welcome page pic](https://github.com/BaraahAbdullah/BaraahAbdullah/blob/main/pic%231.png)
 
 - 🌱 I’m currently learning **baraah.abdullah.almowald@gmail.com**
 
